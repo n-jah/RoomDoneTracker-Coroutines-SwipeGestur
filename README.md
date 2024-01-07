@@ -1,10 +1,10 @@
-# 
+# Done Tracker
 
 **RoomDoneTracker: Coroutines & SwipeGesture**
 
 This project, RoomDoneTracker, showcases the implementation of a task-tracking app with a focus on seamless user interaction. It utilizes the Room Persistence Library for efficient local data storage, Coroutines for asynchronous operations, and SwipeGesture for intuitive task management. The app allows users to add, delete, and archive tasks with smooth swipe gestures, providing a user-friendly and responsive experience. Dive into the code to explore the integration of Room, Coroutines, and SwipeGesture for a comprehensive understanding of modern Android app development.
 
-
+[![Watch the video](https://img.youtube.com/vi/OYqNX1Sak-c/0.jpg)](https://youtube.com/shorts/OYqNX1Sak-c)
 1. **Room Persistence Library:**
     - **Entity Definition:** Defined data entities using Room annotations, specifying the structure of the database.
     - **DAO (Data Access Object):** Created DAO interfaces with methods for database operations, including insert, delete, and queries.
